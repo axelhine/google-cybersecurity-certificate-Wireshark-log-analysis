@@ -1,4 +1,5 @@
 # google-cybersecurity-certificate-Wireshark-log-analysis
+# SYN Flood Attack Analysis
 
 A network security incident analysis completed as part of the **Google Cybersecurity Certificate**. This project uses Wireshark packet capture data to identify and explain a SYN flood Denial of Service (DoS) attack against a company web server.
 
@@ -8,7 +9,7 @@ A company's website became unreachable, triggering a connection timeout for all 
 
 ## Files in This Repository
 
-- [Cybersecurity-Wireshark-log-inscident-report.pdf](Wireshark log inscident report.pdf) — full written incident report, including the scenario, technical analysis, recommendations, and raw Wireshark log data
+- [`Cybersecurity-Wireshark-log-inscident-report.pdf`](Cybersecurity-Wireshark-log-inscident-report.pdf) — original completed incident report, submitted as part of the Google Cybersecurity Certificate coursework
 
 ## What This Project Covers
 
